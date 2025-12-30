@@ -11,10 +11,20 @@ DURATION:12 WEEKS
 
 HR Manager: Drishti Madaan
 
-I recently created a weather app for my 1st internship project at codtech. my goal was to design a response weather app that provides users with real-time weather information. this app allows users to access accurate weather data for any location in the city.
+I recently developed a To-Do List Application as one of my internship projects. My goal was to design an efficient and responsive task-management app that helps users organize their daily activities. This app allows users to easily add, manage, and track their tasks in a simple and user-friendly interface.
 
-Highlights Modern Design: The app features a sleek and modern design, with a clean user interface and dynamic weather icons that reflect different weather conditions. Real-Time Weather Data: The app pulls live weather data from an external API, providing users with up-to-date information on temperature, humidity, wind speed, and weather conditions. Responsive Layout: The app is fully responsive, ensuring a smooth user experience across various devices, from desktops to smartphones. Javascript: JavaScript is used to implement interactive features like location search, dynamic weather updates, and unit switching for temperature and wind speed.
+Highlights
 
-language used HTML ,CSS ,JAVASCRIPT
+Modern Design:
+The app features a clean and minimal modern design, providing a smooth and clutter-free user experience with clear task organization.
+
+Task Management:
+Users can add new tasks, mark completed tasks, delete tasks, and manage their daily activities efficiently, helping them stay productive and organized.
+
+JavaScript Functionality:
+JavaScript is used to implement core functionalities such as adding tasks, deleting tasks, marking tasks as completed, and updating the task list dynamically without page reload.
+
+Languages Used:
+HTML, CSS, JavaScript
 
 #OUTPUT
