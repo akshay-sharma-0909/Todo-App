@@ -28,3 +28,4 @@ Languages Used:
 HTML, CSS, JavaScript
 
 #OUTPUT
+<img width="1899" height="899" alt="Image" src="https://github.com/user-attachments/assets/67ee9763-cd63-4250-84c8-fbca1544682e" />
